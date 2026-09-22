@@ -1,0 +1,6 @@
+2,cde,einstien,10.52
+1,maths,tom,55
+3,program,mateen,80
+7,Physics,Aurthur,25
+9,Urdu, gazi,84
+13,ko,unknown,39
