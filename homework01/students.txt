@@ -1,5 +1,0 @@
-Ali,20
-Ahmed,21
-Sara,19
-uzair, 25
-saad, 36
